@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pref+",
+    "slug": "pref-plus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "br.com.taluga.prefplus" },
+    "android": { "package": "br.com.taluga.prefplus" },
+    "web": { "bundler": "metro", "output": "single" }
+  }
+}
